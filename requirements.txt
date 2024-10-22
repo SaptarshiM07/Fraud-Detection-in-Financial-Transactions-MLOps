@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+flask
+fastapi
+kafka-python
+apache-airflow
+mlflow
+prometheus-client
+gunicorn

@@ -1,0 +1,12 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Other common files to ignore
+.env
+.idea/
+.vscode/
